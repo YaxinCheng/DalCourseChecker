@@ -1,6 +1,14 @@
 # Course Checker
 
-## Basic searches are recovered, there are still some potential issues
+## File List
+1. checker.py
+    - The main program checks existing of courses with given full/partial information
+2. crossFac.py
+    - The search program finds courses with given information through all faculties
+3. cal.py
+    - Convert a searched file into a calendar file
+4. register.py
+    - Script help registering courses with given CRN's
 
 ## Functionalities
 1. Search courses in different faculties, terms, and years by their name(fuzzy), number(fuzzy), and course time

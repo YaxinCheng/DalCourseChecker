@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import requests, sys, time, argparse
 from datetime import datetime
 from getpass import getpass
